@@ -246,7 +246,7 @@
 // } else {
 //       console.log(num, "is not multiple of 3")
 // } 
-// ********************************************************************** 
+// ***********************************************************************
 
 
 // //  write a code which can give grades to students according to their Score. 
